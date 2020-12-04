@@ -1,0 +1,4 @@
+gcc -o controls controls.c -lSDL2 -lSDL2_image
+./controls 
+gcc -o icsim icsim.c -lSDL2 -lSDL2_image
+./icsim
